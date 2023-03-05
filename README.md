@@ -19,12 +19,12 @@ Build a navigation system that allows users to navigate between different screen
 
 Add animations to your React Native app to make it more engaging and interactive. You can use libraries like React Native Animations or React Native Reanimated to create animations.
 
-![Screenshot](images/image1.png)
-![Screenshot](images/image2.png)
-![Screenshot](images/image3.png)
-![Screenshot](images/image4.png)
-![Screenshot](images/image5.png)
-![Screenshot](images/image6.png)
+![Screenshot](../master/images/image1.png)
+![Screenshot](../master/images/image2.png)
+![Screenshot](../master/images/image3.png)
+![Screenshot](../master/images/image4.png)
+![Screenshot](../master/images/image5.png)
+![Screenshot](../master/images/image6.png)
 ---
 
 ## Prerequisites
